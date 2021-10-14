@@ -24,4 +24,4 @@ deploy:
   edge: true
   app: devopslab-es21-leonardo
   on:
-      branch: main  
+      branch: master
